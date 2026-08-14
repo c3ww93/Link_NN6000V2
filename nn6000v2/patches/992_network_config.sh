@@ -7,7 +7,7 @@
 # ==================== WiFi 配置 ====================
 # 5G WiFi 设置
 WIFI_5G_SSID="500/5"
-WIFI_5G_KEY="147258369"
+WIFI_5G_KEY="12345678"
 WIFI_5G_CHANNEL=36
 WIFI_5G_TXPOWER=24
 
